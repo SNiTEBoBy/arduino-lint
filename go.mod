@@ -18,7 +18,6 @@ require (
 	github.com/gobuffalo/httptest v1.5.0 // indirect
 	github.com/golang/gddo v0.0.0-20201207183808-b853219a4332 // indirect
 	github.com/golang/protobuf v1.4.3 // indirect
-	github.com/google/go-cmp v0.5.4 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 // indirect
 	github.com/gorilla/sessions v1.2.1 // indirect
 	github.com/h2non/filetype v1.1.0 // indirect
@@ -47,13 +46,7 @@ require (
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415
 	go.bug.st/relaxed-semver v0.0.0-20190922224835-391e10178d18
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.14.0 // indirect
-	golang.org/x/crypto v0.0.0-20201208171446-5f87f3452ae9 // indirect
-	golang.org/x/mod v0.4.2 // indirect
-	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11 // indirect
-	golang.org/x/sys v0.0.0-20201207223542-d4d67f95c62d // indirect
-	golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf // indirect
-	golang.org/x/text v0.3.4 // indirect
-	golang.org/x/tools v0.0.0-20201211192254-72fbef54948b // indirect
+	golang.org/x/net v0.36.0 // indirect
 	google.golang.org/genproto v0.0.0-20201210142538-e3217bee35cc // indirect
 	google.golang.org/grpc v1.34.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
